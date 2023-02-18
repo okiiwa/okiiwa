@@ -1,4 +1,3 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/1070031032310583437/1076348284202926080/ddd9c6974c9e6dcd8f3a41f257129b9c.jpg)](https:/okiiwa.i
 <h3 align="center">Hi i'm currently working on nothing but i got projects for future</h3>
 <img align="right alt="Coding" width="400" src="https://media.tenor.com/WCf8OoN4BZAAAAAd/vinland-saga.gif">
 <h3 align="left">Connect with me:</h3>
