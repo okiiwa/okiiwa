@@ -1,5 +1,5 @@
 <h3 align="center">Hi i'm currently working on nothing but i got projects for future</h3>
-<img align="right" alt="Coding" width="600" src="https://media.tenor.com/WCf8OoN4BZAAAAAd/vinland-saga.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/WCf8OoN4BZAAAAAd/vinland-saga.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
