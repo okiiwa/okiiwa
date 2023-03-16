@@ -1,5 +1,5 @@
 <h3 align="center">Hi i'm currently working on nothing but i got projects for future</h3>
-[![MasterHead](https://media.tenor.com/hazhGMrDFPwAAAAd/vinland-saga.gif)](https://rishavchanda.io)
+[![MasterHead](https://media.tenor.com/hazhGMrDFPwAAAAd/vinland-saga.gif)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
