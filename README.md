@@ -1,5 +1,4 @@
 <h3 align="center">Hi i'm currently working on nothing but i got projects for future</h3>
-<img align="body" alt="Coding" width="400" src="https://i.pinimg.com/564x/de/90/59/de90597410162a041cc1cecaf18ec5c4.jpg")>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/okiiwa#3767" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="okiiwa#3767" height="30" width="40" /></a>
